@@ -5,7 +5,7 @@
 <p>Introduce = {   <br>
   (●'◡'●)  <br>
   "Hi! My name's Dat🌝",   <br>
-  "Can call me 9r33n or Gr33n",  <br>
+  "Can call me d4rtj",  <br>
   "Now i'm studying in ICTU",  <br>
   "My favourites are chill with music, watch film, play game with my friends and code",  <br>
   "I'm learning about Back-End and i was teached Front-End by my friends, i'm very happy about that"  <br>
