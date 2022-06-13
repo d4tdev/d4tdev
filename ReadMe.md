@@ -8,7 +8,7 @@
   "Can call me d4rtj",  <br>
   "Now i'm studying in ICTU",  <br>
   "My favourites are chill with music, watch film, play game with my friends and code",  <br>
-  "I'm learning about Back-End and i was teached Front-End by my friends, i'm very happy about that"  <br>
+  "I'm learning about Back-End "  <br>
 ]  <br>
 </p>
 
