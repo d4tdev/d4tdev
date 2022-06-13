@@ -30,7 +30,7 @@
  <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /> </p>
  
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=d4rtj&hide_border=false&show_icons=true&theme=react&locale=en&count_private=true" alt="d4rtj"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=d4rtj&hide_border=false&show_icons=true&theme=react&locale=en&count_private=true" alt="d4rtj"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rtj&hide_border=false&theme=react&count_private=true" alt="d4rtj" />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4rtj&hide_border=false&show_icons=true&theme=react&locale=en&layout=compact&count_private=true" alt="d4rtj"/></p>
 
