@@ -32,7 +32,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=d4rtj&hide_border=false&show_icons=true&theme=react&locale=en&count_private=true" alt="d4rtj"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rtj&hide_border=false&theme=react&count_private=true" alt="d4rtj" />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4rtj&hide_border=false&show_icons=true&theme=react&locale=en&layout=compact&count_private=true" alt="d4rtj"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4rtj&hide_border=false&show_icons=true&theme=react&locale=en&layout=compact&count_private=true" alt="d4rtj"/></p> 
 
 <h3 align="left">💰 Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.paypal.com/paypalme/9r33n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.com/paypalme/9r33n" /></a></p><br><br><br><br><br>
