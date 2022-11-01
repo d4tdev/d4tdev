@@ -50,3 +50,8 @@ Introduce = [
   <a href="https://www.paypal.com/paypalme/9r33n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.com/paypalme/9r33n" /></a>
 </p>
 <br>
+
+
+<footer align="center" >
+  <img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
+</footer>
