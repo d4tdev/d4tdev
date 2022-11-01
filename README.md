@@ -47,6 +47,6 @@ Introduce = [
 
 <h1 align="left">💰 Support me:</h1>
 <p>
-  <a href="https://www.buymeacoffee.com/https://www.paypal.com/paypalme/9r33n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.com/paypalme/9r33n" /></a>
+  <a href="https://www.paypal.com/paypalme/9r33n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.com/paypalme/9r33n" /></a>
 </p>
 <br>
