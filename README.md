@@ -1,5 +1,7 @@
 
-<h1 align="center"> 💫About Me </h1>
+<h1 align="center" >
+  <div>💫About Me</div> 
+</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/> <br>
 </div>  
@@ -43,11 +45,12 @@ Introduce = [
 
 
 
+<div>
+<h1 align="left">💰 Support me: </h1>
 
-<h1 align="left">💰 Support me:</h1>
-<p>
   <a href="https://www.paypal.com/paypalme/9r33n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.com/paypalme/9r33n" /></a>
-</p>
+    <img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" style="width: 30%;" />
+</div>
 <br>
 
 
