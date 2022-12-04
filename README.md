@@ -49,7 +49,7 @@ Introduce = [
 <h1 align="left">💰 Support me: </h1>
 
   <a href="https://www.paypal.com/paypalme/9r33n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.com/paypalme/9r33n" /></a>
-    <img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" style="width: 30%;" />
+    <img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" width="180"/>
 </div>
 <br>
 
