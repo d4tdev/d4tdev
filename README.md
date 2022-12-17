@@ -31,9 +31,7 @@ Introduce = [
 ###
  
 <h1 align="left">📊 GitHub Stats:</h1>
-<div align="center">
-<a href="https://app.daily.dev/dd4tj"><img align="center" src="https://api.daily.dev/devcards/1e65c3cad50944da8fe8819fa0ed1491.png?r=jqh" width="300" alt="dd4tj's Dev Card"/></a>
-</div> 
+
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dd4tj&hide_border=false&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="dd4tj" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dd4tj&hide_border=false&theme=react&count_private=true" alt="dd4tj" />
