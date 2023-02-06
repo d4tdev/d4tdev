@@ -36,7 +36,7 @@ Introduce = [
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dd4tj&hide_border=false&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="dd4tj" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dd4tj&hide_border=false&theme=react&count_private=true" alt="dd4tj" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dd4tj&hide_border=false&theme=react&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="dd4tj" />
 </div>
   
 <div align="center">
