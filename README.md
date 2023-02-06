@@ -8,6 +8,7 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
+  ![](https://komarev.com/ghpvc/?username=dd4tj)
 ```js
 Introduce = [   
   (●'◡'●),  
