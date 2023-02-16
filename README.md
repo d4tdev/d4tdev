@@ -22,8 +22,8 @@ Introduce = [
 
 <h1 align="left">🌐 Connect with me:</h1>
 <p align="center">
-<a href="https://www.facebook.com/dd4tj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dd4tj" height="40" width="40" /></a>
-<a href="https://discord.com/users/968119621544710195" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dd4tj" height="50" width="60" /></a>
+<a href="https://www.facebook.com/ttD4T" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ttD4T" height="40" width="40" /></a>
+<a href="https://discord.com/users/968119621544710195" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ttD4T" height="50" width="60" /></a>
 </p>
 
 <h1 align="left">💻 Languages and Tools:</h1>
@@ -36,13 +36,13 @@ Introduce = [
 <h1 align="left">📊 GitHub Stats:</h1>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dd4tj&hide_border=false&include_all_commits=true&theme=react&show_icons=true&count_private=true">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dd4tj&hide_border=false&theme=react&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="dd4tj" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ttD4T&hide_border=false&include_all_commits=true&theme=react&show_icons=true&count_private=true">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttD4T&hide_border=false&theme=react&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="dd4tj" />
   
 </div>
   
 <div align="center">  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dd4tj&hide_border=false&theme=react&include_all_commits=true&layout=compact&langs_count=6&count_private=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttD4T&hide_border=false&theme=react&include_all_commits=true&layout=compact&langs_count=6&count_private=true">
 </div> 
 
 
