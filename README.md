@@ -28,7 +28,7 @@ Introduce = [
 
 <h1 align="left">💻 Languages and Tools:</h1>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css,sass,bootstrap,jquery,md,babel,webpack,cloudflare,java,figma,github,githubactions,git,codepen,stackoverflow,firebase,heroku,vercel,mongodb,mysql,sqlite,postgres,sequelize,nodejs,express,react,redux,vite,redis,gcp,svg,vscode,androidstudio,powershell,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,html,css,sass,bootstrap,jquery,md,babel,webpack,figma,github,githubactions,git,codepen,stackoverflow,firebase,heroku,vercel,mongodb,mysql,sqlite,postgres,sequelize,nodejs,express,react,redux,vite,redis,gcp,cloudflare,svg,vscode,androidstudio,powershell,postman&theme=dark" />
 </p>  
  
 ###
