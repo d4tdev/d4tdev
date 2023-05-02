@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/> <br>
 </div>  
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)
   
   ![](https://komarev.com/ghpvc/?username=dd4tj)
 ```js
@@ -37,13 +37,13 @@ Introduce = [
 <h1 align="left">📊 GitHub Stats:</h1>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ttD4T&hide_border=false&include_all_commits=true&theme=react&show_icons=true&count_private=true">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttD4T&hide_border=false&theme=react&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="dd4tj" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=d4Jt&hide_border=false&include_all_commits=true&theme=react&show_icons=true&count_private=true">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=d4Jt&hide_border=false&theme=react&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="dd4tj" />
   
 </div>
   
 <div align="center">  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttD4T&hide_border=false&theme=react&include_all_commits=true&layout=compact&langs_count=6&count_private=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4Jt&hide_border=false&theme=react&include_all_commits=true&layout=compact&langs_count=6&count_private=true">
 </div> 
 
 
