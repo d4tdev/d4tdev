@@ -1,15 +1,17 @@
-ʇɐᗡ uɐɹ⊥
+<div id="header" align="center">
+  <img src=https://cdn.discordapp.com/attachments/973812651308240926/1194908109483814912/image.png?ex=65b20fe5&is=659f9ae5&hm=04c6db4b327bf13c5b8fd36e3acc3431907e3c616127717e60698e5fcebe8270&" alt="bg" width="100%"/>
+</div>  
 <h1 align="center" >
   <div>💫About Me</div> 
-  <a href="https://www.facebook.com/ttd4t"><img style="margin-left: 200px;" src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=41C375&width=435&lines=Coder++%2F+Developer;Back-End+Developer;%F0%9F%94%A5Foward+to+Full-Stack+Developer" alt="Typing SVG" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://www.facebook.com/datXvootree"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=41C375&width=435&lines=Coder++%2F+Developer;Back-End+Developer;%F0%9F%94%A5Foward+to+Full-Stack+Developer" alt="Typing SVG" /></a>
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/> <br>
+  <!-- <kbd><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/></kbd><br><br> -->
+  <kbd><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false" /></kbd>
 </div>  
   
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)
-  
   ![](https://komarev.com/ghpvc/?username=dd4tj)
+  ʇɐᗡ uɐɹ⊥
 ```js
 Introduce = [   
   (●'◡'●),  
