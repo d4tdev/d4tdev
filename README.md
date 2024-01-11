@@ -1,7 +1,7 @@
 ʇɐᗡ uɐɹ⊥
 <h1 align="center" >
   <div>💫About Me</div> 
-  <a href="https://www.facebook.com/ttd4t"><img style="margin-left: 150px;" src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=41C375&width=435&lines=Studen++%2F+Developer;Back-End+Developer;%F0%9F%94%A5Foward+to+Full-Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://www.facebook.com/ttd4t"><img style="margin-left: 200px;" src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=41C375&width=435&lines=Coder++%2F+Developer;Back-End+Developer;%F0%9F%94%A5Foward+to+Full-Stack+Developer" alt="Typing SVG" /></a>
 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/> <br>
