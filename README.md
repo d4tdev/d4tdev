@@ -3,7 +3,7 @@
 </div>  
 <h1 align="center" >
   <div>🧑‍💻About me</div> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://www.facebook.com/datXvootree"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=41C375&width=435&lines=Coder++%2F+Developer;Back-End+Developer;%F0%9F%94%A5Foward+to+Full-Stack+Developer" alt="Typing SVG" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://www.facebook.com/t.t.t4t"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=41C375&width=435&lines=Coder++%2F+Developer;Web+Developer;%F0%9F%94%A5Foward+to+Full-Stack+Developer" alt="Typing SVG" /></a>
 </h1>
 <div id="header" align="center">
   <!-- <kbd><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/></kbd><br><br> -->
@@ -14,13 +14,15 @@
    
    <!-- ʇɐᗡ uɐɹ⊥-->
 ```js
-Introduce = [   
-  (●'◡'●),  
-  "Hi! My name's Dat🌝",   
-  "Now i'm studying in ICTU",  
-  "My favourites are chill with music, watch film, play game with my friends and code",  
-  "I'm learning about Back-End."  
-]
+Introduce = {    
+  name: "Dat🌝",  
+  description: "Web developer",
+  skills: {
+    basic: ["reactjs", "docker", "redis", "rabbitmq"],
+    advanced: ["nodejs", "express", "mongodb", "mysql"], 
+  },
+  favourites: ["listen to music", "watch film", "play game"]
+}
 ```
 ###
 
