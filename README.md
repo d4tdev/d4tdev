@@ -14,11 +14,11 @@
    
    <!-- ʇɐᗡ uɐɹ⊥-->
 ```js
-Introduce = {    
+const Introduce = {    
   name: "Dat🌝",  
   description: "Web developer",
   skills: {
-    basic: ["reactjs", "docker", "redis", "rabbitmq"],
+    basic: ["reactjs", "docker", "redis", "rabbitmq", "socket.io"],
     advanced: ["nodejs", "express", "mongodb", "mysql"], 
   },
   favourites: ["listen to music", "watch film", "play game"]
