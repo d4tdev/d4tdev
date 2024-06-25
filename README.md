@@ -42,7 +42,7 @@ const Introduce = {
 <h1 align="left">📊 GitHub Stats:</h1>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=d4Jt&hide_border=false&include_all_commits=true&theme=react&show_icons=true&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=d4Jt&hide_border=false&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca">
   <img height="165em" src="https://streak-stats.demolab.com?user=d4Jt&theme=catppuccin-macchiato" alt="GitHub Streak" />
 </div>
   
