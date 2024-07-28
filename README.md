@@ -7,7 +7,7 @@
 </h1>
 <div id="header" align="center">
   <!-- <kbd><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/></kbd><br><br> -->
-  <kbd><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false" /></kbd>
+  <kbd><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false" /></kbd>
 </div>  
   
   ![](https://komarev.com/ghpvc/?username=dd4tj)
