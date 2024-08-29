@@ -16,10 +16,10 @@
 ```js
 const Introduce = {    
   name: "Dat🌝",  
-  description: "Web developer",
+  description: "Backend Web developer",
   skills: {
     basic: ["reactjs", "docker", "redis", "rabbitmq", "socket.io"],
-    advanced: ["nodejs", "express", "mongodb", "mysql"], 
+    advanced: ["nodejs", "express", "mongodb", "mysql", "php", "laravel"], 
   },
   favourites: ["listen to music", "watch film", "play game"]
 }
