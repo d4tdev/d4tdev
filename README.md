@@ -11,7 +11,6 @@
 </div>  
   
   ![](https://komarev.com/ghpvc/?username=dd4tj)
-   
    <!-- ʇɐᗡ uɐɹ⊥-->
 ```js
 const Introduce = {    
@@ -47,9 +46,9 @@ const Introduce = {
 </div>
   
 <div align="center">  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4tdev&hide_border=false&theme=react&include_all_commits=true&layout=compact&langs_count=6&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4tdev&hide_border=false&hide_progress=true&include_all_commits=true&layout=compact&langs_count=6&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca">
 </div> 
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=d4tdev"></div>
 
 <br>
 
