@@ -41,14 +41,14 @@ const Introduce = {
 <h1 align="left">📊 GitHub Stats:</h1>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=d4tdev&hide_border=false&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&include_all_commits=true&count_private=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=d4tdev&hide_border=false&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=a6da95&include_all_commits=true&count_private=true">
   <img height="165em" src="https://streak-stats.demolab.com?user=d4tdev&theme=catppuccin-macchiato" alt="GitHub Streak" />
 </div>
   
 <div align="center">  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4tdev&hide_border=false&hide_progress=true&include_all_commits=true&layout=compact&langs_count=6&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4tdev&hide_border=false&hide_progress=true&include_all_commits=true&layout=compact&langs_count=6&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=a6da95">
 </div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=d4tdev"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=d4tdev&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=a6da95"></div>
 
 <br>
 
